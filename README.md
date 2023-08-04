@@ -1,11 +1,12 @@
 ## UPay Uzbekistan Integration (Visa, Mastercard, Maestro, MIR)
 
-<img src="https://play-lh.googleusercontent.com/56kMB0zuF9jXwKDjWSYgVffMOG8ZuvAz34kSovlZ32zJBhRbIhNbW8Me_wRw7xRYhVE">
+<p align="center">
+  <img width="70%" src="https://play-lh.googleusercontent.com/56kMB0zuF9jXwKDjWSYgVffMOG8ZuvAz34kSovlZ32zJBhRbIhNbW8Me_wRw7xRYhVE">
+</p>
 
-
-Support Group - https://t.me/+Ng1axYLNyBAyYTRi 
+Support Group - https://t.me/+bYouuOlqt1c3NmYy
 # Overview 
-* 1 - clone repo https://github.com/Muhammadali-Akbarov/upay-pkg.git
+* 1 - clone repo https://github.com/PayTechUz/upay-pkg.git
 *  - add this app into your django project
 *  - install all requirements packages
 
